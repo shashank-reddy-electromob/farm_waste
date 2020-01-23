@@ -46,7 +46,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:hint="Weight of the crop/KGS"
+        android:hint="Area of the field"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editText3"
         app:layout_constraintVertical_bias="0.053"
