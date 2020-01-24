@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".orders"></activity>
+        <activity android:name=".farmerdecision"></activity>
+        <activity android:name=".orders" />
         <activity android:name=".businesscrop" />
         <activity android:name=".businessdetails" />
         <activity android:name=".farmerauthentication3" />
